@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Todo Smart",
+    "slug": "todo-smart",
+    "scheme": "todo-smart",
+    "plugins": ["expo-router"],
+    "extra": {}
+  }
+}
